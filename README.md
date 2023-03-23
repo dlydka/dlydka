@@ -20,6 +20,6 @@
 ### Stats 📊
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlydka&show_icons=true&locale=en" alt="dlydka" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dlydka&" alt="dlydka" />
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlydka&show_icons=true&locale=en&layout=compact" alt="dlydka" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dlydka&" alt="dlydka" />
 </p>
