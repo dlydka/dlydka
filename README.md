@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlydka&label=Profile%20views&color=0e75b6&style=flat" alt="dlydka" /> </p>
 
-- 🔭 [I finished my engineering thesis with [friend of mine](https://github.com/MikolekN) which topic is "Implementation of an add-on for the Google Chrome browser that creates workflows based on the history of visited pages using process mining techniques"](https://github.com/MikolekN/Process-Mining-Chrome-Extension)
+- 🔭 I finished my engineering thesis with [friend of mine](https://github.com/MikolekN) which topic is "Implementation of an add-on for the Google Chrome browser that creates workflows based on the history of visited pages using process mining techniques" (https://github.com/MikolekN/Process-Mining-Chrome-Extension)
 
 - 🌱 I’m currently studying **Computer Science at Gdansk University of Technology, Poland.**
 
