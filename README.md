@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I'm third-year CS student and hopefully become an Engineer in this field of study in near future</h3>
+<h3 align="center">I'm fourth-year CS student and hopefully become an Engineer in this field of study in near future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlydka&label=Profile%20views&color=0e75b6&style=flat" alt="dlydka" /> </p>
 
-- 🔭 I’m currently working on [my engineering thesis with [friend of mine](https://github.com/MikolekN) which topic is "Implementation of an add-on for the Google Chrome browser that creates workflows based on the history of visited pages using process mining techniques"](https://github.com/MikolekN/Process-Mining-Chrome-Extension)
+- 🔭 [I finished my engineering thesis with [friend of mine](https://github.com/MikolekN) which topic is "Implementation of an add-on for the Google Chrome browser that creates workflows based on the history of visited pages using process mining techniques"](https://github.com/MikolekN/Process-Mining-Chrome-Extension)
 
 - 🌱 I’m currently studying **Computer Science at Gdansk University of Technology, Poland.**
 
