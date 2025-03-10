@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">I'm fourth-year CS student and hopefully become an Engineer in this field of study in near future</h3>
+<h3 align="center">I'm fifth-year CS student and hopefully become an Engineer in this field of study in near future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlydka&label=Profile%20views&color=0e75b6&style=flat" alt="dlydka" /> </p>
 
